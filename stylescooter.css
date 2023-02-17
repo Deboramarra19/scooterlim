@@ -1,0 +1,56 @@
+body{
+    background-image: url("sfondo.jpg");
+    color: black;
+} 
+.container{
+    width: 1000px ;
+    margin: auto;
+    text-align: center;
+}
+.logo{
+    width: 100px;
+}
+.logo-text{
+    font: size 25px; ;
+    color: rgb(12, 236, 12);
+    display: inline-block;
+}
+#unread-count{
+    background-color: yellow;
+    border-right: 300px;
+    padding:15px ;
+}
+.container2{
+    width: 1000px ;
+    margin: auto;
+    text-align: left;
+}
+.read{
+    background-color: gray;
+    opacity: 0.7;
+}
+.row-lef{
+    display: inline-block;
+    width: 30%;
+}
+#unread-count2{
+    color:white;
+    background-color:rosybrown;
+    border-right: 250px;
+    padding:3px ;
+}
+#unread-count3{
+    color:white;
+    background-color:green;
+    border-right: 250px;
+    padding:3px ;
+}
+#unread-count4{
+    color:white;
+    background-color:red;
+    border-right: 250px;
+    padding:3px ;
+}
+
+
+
